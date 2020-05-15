@@ -18,7 +18,7 @@ app.use(routes);
 // Connect to the Mongo DB
 mongoose.connect(
   process.env.MONGODB_URI ||
-    'mongodb://dangulo4:password1@ds121483.mlab.com:21483/heroku_h5n6cmzg'
+    'mongodb://dangulo4:Password1@ds121483.mlab.com:21483/heroku_h5n6cmzg'
 );
 
 // Start the API server
