@@ -1,5 +1,5 @@
 {
-  "name": "mern",
+  "name": "react-reading-list",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -22,11 +22,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "express": "^4.16.3",
-    "if-env": "^1.0.4",
-    "mongoose": "^5.3.16"
-  },
-  "engines": {
-    "node": "12.16.1",
-    "npm": "6.13.4"
+    "mongoose": "^5.3.16",
+    "if-env": "^1.0.4"
   }
 }
